@@ -1,9 +1,20 @@
 /*      Header Site Start---*/
 .header {
     background-color: black;
+    border-radius: 5px;
 }
 
 
 .header-article {
+    color: white;
+}
+
+h1 {
+    font-size: 700;
+}
+
+.buttom {
+    background-color: #e74c3c;
+    border-radius: 5px;
     color: white;
 }
