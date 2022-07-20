@@ -56,3 +56,34 @@ body {
 
     color: #34495e
 }
+
+
+/*--------------------Upcoming------------*/
+
+.upcoming {
+    display: flex;
+}
+
+
+/*                   Menu*               */
+.menu {
+    background-color: black;
+    color: whitesmoke;
+}
+
+.upcoming-match {
+    color: white;
+}
+
+.match .match-banner img {
+    width: 224px;
+    height: 104px;
+}
+
+.match {
+    background-color: E8E8E8
+}
+
+.match-title {
+    color: #161616;
+}
