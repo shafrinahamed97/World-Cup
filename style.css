@@ -42,6 +42,7 @@ body {
 
 .header-article {
     color: white;
+
 }
 
 h1 {
@@ -54,7 +55,7 @@ h1 {
 
 .blog {
     margin-left: 106px;
-    margin-bottom: 197px;
+    margin-top: 20px;
 }
 
 
@@ -65,7 +66,7 @@ h1 {
     color: #FFFFFF;
     padding: 16px 32px;
     text-align: center;
-    text-decoration: none;
+    /* text-decoration: none; */
     display: inline-block;
     font-size: 16px;
     margin: 4px 2px;
