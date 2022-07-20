@@ -154,7 +154,7 @@ footer {
 
 .footer-details a {
     text-decoration: none;
-    color: #B9B9B9;
+    color: #B9B9B9
 }
 
 
@@ -171,4 +171,12 @@ footer {
     width: 100vw;
     padding: 20px 0;
     text-align: center;
+}
+
+hr {
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    width: 1320px;
+    height: 0px;
+    left: 140px;
+    top: 2330px;
 }
