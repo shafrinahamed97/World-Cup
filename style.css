@@ -28,10 +28,6 @@ body {
 
     flex-wrap: nowrap;
     height: 440px;
-
-
-
-
 }
 
 .header-photo img {
@@ -90,13 +86,22 @@ h1 {
 
 }
 
+/*        Header Section End*/
+
 
 
 /*--------------------Upcoming------------*/
-
-.upcoming {
-    display: flex;
+.menu-box-outsise {
+    margin-top: 130px;
+    margin-left: 140px;
+    margin-bottom: 952px;
+    margin-right: 24px;
+    background-color: #161616;
+    width: 312px;
+    height: 312px;
+    border-radius: 10px;
 }
+
 
 
 /*                   Menu*               */
