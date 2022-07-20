@@ -11,6 +11,7 @@ body {
 body {
     font-family: 'Poppins', sans-serif;
 
+
 }
 
 /*      Header Site Start---*/
@@ -23,7 +24,7 @@ body {
     background-color: black;
     border-radius: 30px;
     margin-left: 120px;
-    margin-right: 119px;
+    margin-right: 80px;
     margin-top: 50px;
 
     flex-wrap: nowrap;
@@ -119,11 +120,21 @@ h1 {
 
 /* Start Upcoming Section */
 
+.upcoming {
+    display: flex;
+
+
+
+}
+
+
+
+
+
+
 
 .menu-box-outsise {
-    margin-top: 150px;
-    margin-left: 140px;
-    margin-bottom: 952px;
+
     margin-right: 24px;
     background-color: #161616;
     width: 300px;
@@ -136,7 +147,7 @@ h1 {
 
 .menu-box-outsise {
     margin-top: 130px;
-    margin-left: 140px;
+    margin-left: 120px;
     margin-bottom: 952px;
     margin-right: 24px;
     background-color: black;
@@ -195,6 +206,14 @@ h1 {
     border-radius: 10px;
 
 }
+
+/*                   Start Blog*          /
+
+
+
+
+
+/*                    End Blog*           /
 
 
 
