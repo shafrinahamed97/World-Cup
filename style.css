@@ -1,5 +1,16 @@
 body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #fcfcfc;
+}
+
+body {
     font-family: 'Poppins', sans-serif;
+
 }
 
 /*      Header Site Start---*/
@@ -88,13 +99,13 @@ body {
     color: #161616;
 }
 
-/*                       Footer                             */
 footer {
     background-color: black;
     height: auto;
     width: 100vw;
-    font-family: "open-sens";
+    font-family: "Open Sans";
     padding-top: 40px;
+    color: #fff;
 }
 
 .footer-content {
@@ -105,6 +116,14 @@ footer {
     text-align: center;
 }
 
+.footer-details {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem 0 3rem 0;
+}
+
 .footer-content h3 {
     font-size: 2.5rem;
     font-weight: 400;
@@ -113,25 +132,9 @@ footer {
     color: white;
 }
 
-.footer-details {
-    max-width: 500px;
-    margin: 10px auto;
-    line-height: 28px;
-    font-size: 14px;
-}
-
-.socails {
-    list-style: none;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: 1rem 0 3rem 0;
 
 
-
-}
-
-.footer-details {
+.socials {
     list-style: none;
     display: flex;
     align-items: center;
@@ -139,7 +142,18 @@ footer {
     margin: 1rem 0 3rem 0;
 }
 
-.social li {
+.socials a {
+    text-decoration: none;
+    color: #ffff;
+}
+
+.socails a i {
+    font-size: 1.1rem;
+}
+
+
+
+.socials li {
     margin: 0 10px;
 }
 
@@ -147,10 +161,7 @@ footer {
     margin: 0 10px;
 }
 
-.soial a {
-    text-decoration: none;
-    color: #ffff;
-}
+
 
 .footer-details a {
     text-decoration: none;
@@ -158,24 +169,16 @@ footer {
 }
 
 
-.socail a i {
-    font-size: 1.1rem;
-}
+
+
 
 .footer-details a i {
-    font-size: 1.1rem;
+    font-size: .1rem;
 }
 
-.footer-bottom {
-    background-color: #000;
-    width: 100vw;
-    padding: 20px 0;
-    text-align: center;
-}
+
 
 hr {
     border: 1px solid rgba(255, 255, 255, 0.1);
     width: 1320px;
-
-
 }
